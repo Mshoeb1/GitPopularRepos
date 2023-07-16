@@ -1,0 +1,27 @@
+.list-content {
+  list-style-type: none;
+  margin-left: none;
+  margin-right: 30px;
+}
+
+.style {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  font-size: 15px;
+  background-color: transparent;
+  font-weight: 400;
+}
+
+.normal {
+  border: none;
+  color: #0f172a;
+  padding: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+  background-color: transparent;
+}

@@ -1,0 +1,72 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #ffffff;
+  min-height: 100vh;
+  width: 100vw;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  font-family: 'Roboto';
+}
+
+.main-repository-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.main-heading {
+  color: #0f172a;
+  font-size: 50px;
+  align-self: center;
+  margin-bottom: 20px;
+  font-family: 'Lobster';
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  width: 100%;
+}
+
+.failure-img {
+  height: 300px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.failure-heading {
+  color: #0f172a;
+  font-size: 50px;
+  align-self: center;
+  font-family: 'Lobster';
+}
+
+.repo-filter-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: 0px;
+}
+
+.repo-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-left: 0px;
+}
